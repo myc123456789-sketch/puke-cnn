@@ -1,0 +1,7 @@
+*.pyc
+*.jpg
+*.png
+*.mp4
+*.MP4
+test.py
+static
